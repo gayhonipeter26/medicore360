@@ -13,7 +13,6 @@
       <nav class="nav-menu">
         <a href="#features" class="nav-link">Features</a>
         <a href="#specialties" class="nav-link">Specialties</a>
-        <a href="#about" class="nav-link">About</a>
         <a href="#contact" class="nav-link">Contact</a>
       </nav>
       <div class="mobile-menu-toggle" @click="toggleMobileMenu">
