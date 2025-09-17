@@ -16,7 +16,7 @@ import Navbar from "./components/Navbar.vue";
 import Hero from "./components/Hero.vue";
 import Features from "./components/Features.vue";
 import Specialties from "./components/Specialties.vue";
-import RequestForm from "./components/Requestform.vue";
+import RequestForm from "./components/Request.vue";
 import Footer from "./components/Footer.vue";
 
 
